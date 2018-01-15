@@ -1,7 +1,7 @@
 ## Laptop Requirements
 
 
-Laptop requirement: Intel Core i5: Macbook may not be an option. Also, additional systems required for the ultrasound machine, and possibly for running the ultrasound and eye-tracking machine in a synchonised manner.#3 proposed experiments:## Experiment 1:Cross-spliced words (to be provided by ID)
+Laptop requirement: Intel Core i5: Macbook may not be an option. Also, additional systems required for the ultrasound machine, and possibly for running the ultrasound and eye-tracking machine in a synchonised manner.# 3 proposed experiments:## Experiment 1:Cross-spliced words (to be provided by ID)
 In Malayalam, coarticulatory resistance: Alveolar>Retroflex>DentalOdd, because alveolars are articulatorily least complex. This is best explained by the fact that alveolars in Malayalam have the least neighborhood density due to the constraints imposed by the language upon their occurrence.The articulation of a **V<sub>1</sub>CV<sub>2</sub>** takes 100ms.When speakers gaze at an alveolar, more resistance = slowest reaction.   In this experiment, V1 will have the same quality as V2.
 <BR> Burst: When stop released, shape of the tongue and oral cavity tells us what the stop was.
 
